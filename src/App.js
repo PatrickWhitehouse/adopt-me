@@ -6,9 +6,11 @@ const App = () => {
   return (
     <div>
       <h1>Adopt Me!</h1>
-      <Pet name="Luna" animal="dog" breed="Havanese" />
-      <Pet name="Pepper" animal="bird" breed="Cockatiel" />
-      <Pet name="Doink" animal="cat" breed="Mix" />
+      <Pet name="Brenda" animal="dog" breed="Golden Retriever" />
+      <Pet name="Mabel" animal="dog" breed="Golden Retriever" />
+      <Pet name="Tony" animal="tortoise" breed="Horsefield" />
+      <Pet name="Tia" animal="cat" breed="Calico" />
+
     </div>
   );
 };
